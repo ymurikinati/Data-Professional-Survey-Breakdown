@@ -2,7 +2,7 @@
 
 In this project, I have learned about Power BI basics, including Datasets, Dashboards, Reports, Tiles, Survey Design and Execution, Data Analysis, Data Visualization, Understanding the Data Industry, Communication, and Engagement.
 
-I**nsights from the dashboards:**
+**insights from the dashboards:**
 
 Total Survey Takers: 630
 
