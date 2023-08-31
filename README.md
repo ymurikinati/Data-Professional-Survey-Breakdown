@@ -59,3 +59,7 @@ The project's analysis yields several noteworthy insights that provide a compreh
 In summary, the Data Professional Survey Breakdown Dashboard project effectively transforms raw survey data into meaningful insights through compelling visualizations. It provides a comprehensive understanding of the data professional landscape, highlighting key trends, preferences, and sentiments among survey participants. This information can be invaluable for decision-makers, employers, and professionals within the data industry to make informed choices and strategies based on the insights revealed by the project.
 
 
+![image](https://github.com/ymurikinati/Data-Professional-Survey-Breakdown/assets/138186696/2d5cc76a-3ab3-41a0-ac93-9526ec444df6)
+
+
+
